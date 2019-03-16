@@ -1,4 +1,5 @@
-# vim-termfocus
+# Mayanfog
 
-A terminal-only Vim colourscheme that has only minimal syntax highlighting and
-takes its colour palette from your terminal emulator.
+A minimal version of [Mayansmoke][ms] by Jeet Sukumaran
+
+[ms]: https://jeetblogs.org/post/mayansmoke/
