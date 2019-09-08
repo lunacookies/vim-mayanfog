@@ -10,7 +10,7 @@
 
 ## Installation
 
-Use your favorite runtimepath/plugin manager, or place `oldbook8.vim` into
+Use your favorite runtimepath/plugin manager, or place `mayanfog.vim` into
 `~/.vim/colors/` for Unix and `%userprofile%\vimfiles\colors\` for Windows.
 
 ## Usage
